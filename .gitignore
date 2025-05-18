@@ -5,8 +5,8 @@ __pycache__/
 
 # Data files
 *.csv
-*.pkl
 *.xlsx
+MICRODADOS*
 
 # Mlflow
 mlruns/
