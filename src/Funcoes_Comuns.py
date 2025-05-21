@@ -31,7 +31,7 @@ def registrar_modelo(experimento: str,
                      y_train: pd.DataFrame, 
                      y_test: pd.DataFrame, 
                      y_pred: pd.DataFrame, 
-                     varivel_alvo: str, 
+                     variavel_alvo: str, 
                      modelo: object, 
                      nome_modelo: str,
                      descricao_modelo: str):
@@ -44,7 +44,7 @@ def registrar_modelo(experimento: str,
         y_train: pd.DataFrame, rótulos de treino
         y_test: pd.DataFrame, dados de teste
         y_pred: pd.DataFrame, previsões do modelo
-        varivel_alvo: str, nome da variável alvo
+        variavel_alvo: str, nome da variável alvo
         modelo: object, modelo treinado
         nome_modelo: str, nome do modelo a ser registrado
         descricao_modelo: str, descrição do modelo
@@ -67,9 +67,9 @@ def registrar_modelo(experimento: str,
                 mlflow.log_param(param, value)
 
             # Registrar as métricas
-            r2 = r2_score(y_test[varivel_alvo], y_pred)
-            mae = mean_absolute_error(y_test[varivel_alvo], y_pred)
-            rmse = root_mean_squared_error(y_test[varivel_alvo], y_pred)
+            r2 = r2_score(y_test[variavel_alvo], y_pred)
+            mae = mean_absolute_error(y_test[variavel_alvo], y_pred)
+            rmse = root_mean_squared_error(y_test[variavel_alvo], y_pred)
 
             mlflow.log_metric("r2", r2)
             mlflow.log_metric("mae", mae)
@@ -79,7 +79,7 @@ def registrar_modelo(experimento: str,
             mlflow.set_tag("model_type", descricao_modelo)
 
             # Inferir assinatura do modelo
-            signature = mlflow.models.infer_signature(X_train, y_train[varivel_alvo])
+            signature = mlflow.models.infer_signature(X_train, y_train[variavel_alvo])
 
             # Registrar modelo
             mlflow.sklearn.log_model(sk_model=modelo,
