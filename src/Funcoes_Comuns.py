@@ -16,9 +16,9 @@ def avaliar_modelo(y_true, y_pred, grupo):
     mae = mean_absolute_error(y_true, y_pred)
     rmse = root_mean_squared_error(y_true, y_pred)
     r2 = r2_score(y_true, y_pred)
-    print(f"MAE ({grupo}): {mae:.2f}")
-    print(f"RMSE ({grupo}): {rmse:.2f}")
-    print(f"R2 ({grupo}): {r2:.2f}")
+    print(f"MAE ({grupo}): {mae:.4f}")
+    print(f"RMSE ({grupo}): {rmse:.4f}")
+    print(f"R2 ({grupo}): {r2:.4f}")
 
 
 import mlflow
