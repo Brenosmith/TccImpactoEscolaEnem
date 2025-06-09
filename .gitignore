@@ -7,6 +7,9 @@ __pycache__/
 *.csv
 *.xlsx
 MICRODADOS*
+X*
+y*
+enem*
 
 # Arquivos Maiores que 100MB
 modelo_random_forest_base*
