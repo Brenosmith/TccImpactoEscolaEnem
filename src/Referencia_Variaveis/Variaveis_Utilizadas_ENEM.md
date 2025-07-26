@@ -1,4 +1,4 @@
-# Tabela descritiva das variáveis utilizadas no TCC
+# Tabela descritiva das variáveis utilizadas no TCC - Censo Escolar
 
 - 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_ENEM.xlsx) *(clique em "View raw" na página para baixar)*
 
