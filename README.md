@@ -6,8 +6,8 @@
 Este repositório contém os materiais de apoio ao TCC: código, análises e dados suplementares.
 
 📁 **Tabelas e Documentos**
-- [📄 Tabela descritiva das variáveis utilizadas do ENEM](.Referencia_Variaveis/Variaveis_Utilizadas_ENEM.md)
-- [📄 Tabela descritiva das variáveis utilizadas do Censo Escolar](.Referencia_Variaveis/Variaveis_Utilizadas_Censo.md)
+- [📄 Tabela descritiva das variáveis utilizadas do ENEM](./src/Referencia_Variaveis/Variaveis_Utilizadas_ENEM.md)
+- [📄 Tabela descritiva das variáveis utilizadas do Censo Escolar](./src/Referencia_Variaveis/Variaveis_Utilizadas_Censo.md)
 
 
 ## Projeto em desenvolvimento... previsão setembro 2025
