@@ -1,5 +1,7 @@
 # Tabela descritiva das variáveis utilizadas no TCC
 
+- 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_ENEM.xlsx)
+
 | Nome Variável Original   | Significado                             | Nome Variável Tratada      | Tipo Tratada   | Origem         |
 |:-------------------------|:----------------------------------------|:---------------------------|:---------------|:---------------|
 | TP_FAIXA_ETARIA          | Faixa etária                            | CAT_FAIXA_ETARIA           | Categórica     | Socioeconômica |
