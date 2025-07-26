@@ -1,6 +1,6 @@
 # Tabela descritiva das variáveis utilizadas no TCC
 
-- 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_ENEM.xlsx)
+- 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_ENEM.xlsx) *(clique em "View raw" na página para baixar)*
 
 | Nome Variável Original   | Significado                             | Nome Variável Tratada      | Tipo Tratada   | Origem         |
 |:-------------------------|:----------------------------------------|:---------------------------|:---------------|:---------------|

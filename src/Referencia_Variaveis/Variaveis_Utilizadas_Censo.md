@@ -1,6 +1,6 @@
 # Tabela descritiva das variáveis do Censo Escolar utilizadas no TCC
 
-- 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_Censo.xlsx)
+- 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_Censo.xlsx) *(clique em "View raw" na página para baixar)*
 
 | Nome Variável Original         | Significado                                      | Nome Variável Tratada                | Tipo Tratada   | Estatística   | Origem   |
 |:-------------------------------|:-------------------------------------------------|:-------------------------------------|:---------------|:--------------|:---------|
