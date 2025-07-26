@@ -2,6 +2,16 @@
 
 - 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_Censo.xlsx) *(clique em "View raw" na página para baixar)*
 
+Esta tabela reúne as variáveis selecionadas dos microdados do Censo Escolar 2023 (fonte: [INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)).
+
+Colunas:
+- Nome Variável Original: nome nos microdados do Censo Escolar
+- Significado: descrição da variável
+- Nome Variável Tratada: nome na base final do projeto
+- Tipo Tratada: tipo na base final
+- Estatística: técnica aplicada no agrupamento
+- Origem: indica se é variável socioeconômica ou escolar
+
 | Nome Variável Original         | Significado                                      | Nome Variável Tratada                | Tipo Tratada   | Estatística   | Origem   |
 |:-------------------------------|:-------------------------------------------------|:-------------------------------------|:---------------|:--------------|:---------|
 | CO_MUNICIPIO                   | Código Município                                 | CHA_CO_MUNICIPIO                     | Categórica     | n/a           | Escolar  |

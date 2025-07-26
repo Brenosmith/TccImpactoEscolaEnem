@@ -2,6 +2,15 @@
 
 - 📥 [Baixar arquivo Excel (.xlsx)](./Variaveis_Utilizadas_ENEM.xlsx) *(clique em "View raw" na página para baixar)*
 
+Esta tabela reúne as variáveis selecionadas dos microdados do ENEM 2023 (fonte: [INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)).
+
+Colunas:
+- Nome Variável Original: nome nos microdados do ENEM
+- Significado: descrição da variável
+- Nome Variável Tratada: nome na base final do projeto
+- Tipo Tratada: tipo na base final
+- Origem: indica se é variável socioeconômica ou escolar
+
 | Nome Variável Original   | Significado                             | Nome Variável Tratada      | Tipo Tratada   | Origem         |
 |:-------------------------|:----------------------------------------|:---------------------------|:---------------|:---------------|
 | TP_FAIXA_ETARIA          | Faixa etária                            | CAT_FAIXA_ETARIA           | Categórica     | Socioeconômica |
