@@ -86,9 +86,6 @@ def registrar_modelo(experimento: str,
                                     artifact_path=nome_modelo,
                                     signature=signature,
                                     registered_model_name=nome_modelo)
-            
-            # Finalizar o rastreamento do MLflow
-            mlflow.end_run()
 
             print(f"Modelo registrado com sucesso no MLflow: {nome_modelo}")
             
