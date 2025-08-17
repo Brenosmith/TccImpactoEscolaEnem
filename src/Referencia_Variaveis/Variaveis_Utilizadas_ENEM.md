@@ -23,7 +23,7 @@ Colunas:
 | CO_MUNICIPIO_ESC         | Código do município da escola           | CAT_CO_MUNICIPIO_ESC       | Categórica     | Escolar        |
 | CO_UF_ESC                | Código da Unidade da Federação (escola) | CAT_CO_UF_ESC              | Categórica     | Escolar        |
 | TP_DEPENDENCIA_ADM_ESC   | Federal, estadual, municipal ou privada | CAT_TP_DEPENDENCIA_ADM_ESC | Categórica     | Escolar        |
-| TP_LOCALIZACAO_ESC       | Localização (escola): urbana ou rual    | CAT_LOCALIZACAO_ESCOLA     | Categórica     | Escolar        |
+| TP_LOCALIZACAO_ESC       | Localização (escola): urbana ou rural   | CAT_LOCALIZACAO_ESCOLA     | Categórica     | Escolar        |
 | TP_SIT_FUNC_ESC          | Situação de funcionamento (escola)      | CAT_SIT_FUNC_ESC           | Categórica     | Escolar        |
 | NU_NOTA_CN               | Nota da prova de Ciências da Natureza   | NUM_NOTA_CN                | Numérica       | Alvo           |
 | NU_NOTA_CH               | Nota da prova de Ciências Humanas       | NUM_NOTA_CH                | Numérica       | Alvo           |

@@ -78,7 +78,7 @@ Colunas:
 | QT_TUR_MED_INT                 | Turmas Tempo Integral                            | NUM_MEAN_TUR_MED_INT                 | Numérica       | Média         | Escolar  |
 | TP_CATEGORIA_ESCOLA_PRIVADA    | Categoria da escola privada                      | CAT_MODE_CATEGORIA_ESCOLA_PRIVADA    | Categórica     | Moda          | Escolar  |
 | TP_DEPENDENCIA                 | Federal, estadual, municipal ou privada          | CHA_DEPENDENCIA                      | Categórica     | n/a           | Escolar  |
-| TP_LOCALIZACAO                 | Localização: urbana ou rual                      | CHA_LOCALIZACAO                      | Categórica     | n/a           | Escolar  |
+| TP_LOCALIZACAO                 | Localização: urbana ou rural                     | CHA_LOCALIZACAO                      | Categórica     | n/a           | Escolar  |
 | TP_LOCALIZACAO_DIFERENCIADA    | Localização diferenciada da escola               | CAT_MODE_LOCALIZACAO_DIFERENCIADA    | Categórica     | Moda          | Escolar  |
 | TP_OCUPACAO_GALPAO             | Tipo de ocupação de galpão                       | CAT_MODE_OCUPACAO_GALPAO             | Categórica     | Moda          | Escolar  |
 | TP_OCUPACAO_PREDIO_ESCOLAR     | Tipo de ocupação de prédio escolar               | CAT_MODE_OCUPACAO_PREDIO_ESCOLAR     | Categórica     | Moda          | Escolar  |
