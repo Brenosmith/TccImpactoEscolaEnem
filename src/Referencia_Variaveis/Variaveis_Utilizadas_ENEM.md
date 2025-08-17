@@ -18,12 +18,12 @@ Colunas:
 | TP_ESTADO_CIVIL          | Estado Civil                            | CAT_ESTADO_CIVIL           | Categórica     | Socioeconômica |
 | TP_COR_RACA              | Cor/raça                                | CAT_COR_RACA               | Categórica     | Socioeconômica |
 | TP_NACIONALIDADE         | Nacionalidade                           | CAT_NACIONALIDADE          | Categórica     | Socioeconômica |
-| TP_ESCOLA                | Tipo de escola do Ensino Médio          | CAT_ESCOLA                 | Categórica     | Escolar        |
-| TP_ENSINO                | Tipo de instituição do Ensino Médio     | CAT_ENSINO                 | Categórica     | Escolar        |
+| TP_ESCOLA                | Escola pública ou privada               | CAT_ESCOLA                 | Categórica     | Escolar        |
+| TP_ENSINO                | Ensino regular ou educação especial     | CAT_ENSINO                 | Categórica     | Escolar        |
 | CO_MUNICIPIO_ESC         | Código do município da escola           | CAT_CO_MUNICIPIO_ESC       | Categórica     | Escolar        |
 | CO_UF_ESC                | Código da Unidade da Federação (escola) | CAT_CO_UF_ESC              | Categórica     | Escolar        |
-| TP_DEPENDENCIA_ADM_ESC   | Dependência administrativa (escola)     | CAT_TP_DEPENDENCIA_ADM_ESC | Categórica     | Escolar        |
-| TP_LOCALIZACAO_ESC       | Localização (escola)                    | CAT_LOCALIZACAO_ESCOLA     | Categórica     | Escolar        |
+| TP_DEPENDENCIA_ADM_ESC   | Federal, estadual, municipal ou privada | CAT_TP_DEPENDENCIA_ADM_ESC | Categórica     | Escolar        |
+| TP_LOCALIZACAO_ESC       | Localização (escola): urbana ou rual    | CAT_LOCALIZACAO_ESCOLA     | Categórica     | Escolar        |
 | TP_SIT_FUNC_ESC          | Situação de funcionamento (escola)      | CAT_SIT_FUNC_ESC           | Categórica     | Escolar        |
 | NU_NOTA_CN               | Nota da prova de Ciências da Natureza   | NUM_NOTA_CN                | Numérica       | Alvo           |
 | NU_NOTA_CH               | Nota da prova de Ciências Humanas       | NUM_NOTA_CH                | Numérica       | Alvo           |
