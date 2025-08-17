@@ -15,109 +15,109 @@ Colunas:
 
 | Variável                             |   SHAP |   Ganho |   Split |
 |:-------------------------------------|-------:|--------:|--------:|
-| Língua estrangeira                   |      1 |       2 |      60 |
-| Renda familiar mensal                |      2 |       1 |       6 |
-| Qtde. computadores                   |      3 |       4 |      29 |
-| Cor/raça                             |      4 |      11 |      27 |
-| Qtde. freezers                       |      5 |      24 |      42 |
-| Possui TV por assinatura             |      6 |      35 |      68 |
-| Faixa etária                         |      7 |      19 |      16 |
-| Ocupação pai                         |      8 |       7 |      18 |
-| Categoria escola privada             |      9 |       3 |     103 |
-| UF escola                            |     10 |      15 |       3 |
-| Cód. município                       |     11 |       8 |       1 |
-| Tipo de escola                       |     12 |       6 |      89 |
-| Grau estudo mãe                      |     13 |      12 |      21 |
-| Dependência administrativa           |     14 |       9 |      71 |
-| Grau estudo pai                      |     15 |      13 |      24 |
-| Órgão regional                       |     16 |      14 |       2 |
-| Qtde. micro-ondas                    |     17 |      51 |      47 |
-| Ocupação mãe                         |     18 |      22 |      20 |
-| Qtde. celulares                      |     19 |      29 |      32 |
-| Empresa privada mantened.            |     20 |       5 |      50 |
-| Pessoas na residência                |     21 |      38 |      26 |
-| Qtde. máq. lavar roupa               |     22 |      40 |      56 |
-| Qtde. motocicletas                   |     23 |      52 |      38 |
-| Qtde. psicólogos                     |     24 |      17 |      35 |
-| Vínculo Sec. Educação                |     25 |      10 |      64 |
-| Região geográfica                    |     26 |      30 |      54 |
-| Sala artes                           |     27 |      20 |      36 |
-| Não sabe grau estudo mãe             |     28 |      42 |      88 |
-| Qtde. máq. secar roupa               |     29 |      72 |      76 |
-| Qtde. monitores                      |     30 |      28 |      19 |
-| Qtde. carros                         |     31 |      34 |      41 |
-| Qtde. TVs                            |     32 |      46 |      40 |
-| Qtde. quartos                        |     33 |      70 |      37 |
-| Não sabe grau estudo pai             |     34 |      57 |      84 |
-| Qtde. banheiros                      |     35 |      23 |      52 |
-| Exame seleção                        |     36 |      31 |      95 |
-| Matrículas ens. médio                |     37 |      18 |       5 |
-| Possui aspirador                     |     38 |      26 |      81 |
-| Turmas ens. médio                    |     39 |      21 |      13 |
-| Dias empregado(a) doméstico(a)       |     40 |      45 |      57 |
-| Auditório                            |     41 |      43 |      30 |
-| Qtde. bibliotecários                 |     42 |      27 |      11 |
+| Língua estrangeira                   |      1 |       2 |      98 |
+| Renda familiar mensal                |      2 |       1 |      13 |
+| Qtde. computadores                   |      3 |       7 |      51 |
+| Cor/raça                             |      4 |      14 |      38 |
+| Qtde. freezers                       |      5 |      20 |      64 |
+| Possui TV por assinatura             |      6 |      43 |      88 |
+| Faixa etária                         |      7 |      19 |      28 |
+| Cód. município                       |      8 |       3 |       1 |
+| Ocupação pai                         |      9 |       8 |      32 |
+| Tipo de escola                       |     10 |       6 |      90 |
+| Grau estudo mãe                      |     11 |      13 |      35 |
+| Dependência administrativa           |     12 |       5 |      79 |
+| Grau estudo pai                      |     13 |      12 |      33 |
+| Categoria escola privada             |     14 |       4 |     101 |
+| UF escola                            |     15 |      17 |       3 |
+| Ocupação mãe                         |     16 |      18 |      31 |
+| Qtde. micro-ondas                    |     17 |      52 |      62 |
+| Qtde. celulares                      |     18 |      31 |      42 |
+| Vínculo Sec. Educação                |     19 |      10 |      45 |
+| Empresa privada mantened.            |     20 |       9 |      43 |
+| Órgão regional                       |     21 |      11 |       2 |
+| Pessoas na residência                |     22 |      45 |      37 |
+| Qtde. motocicletas                   |     23 |      63 |      46 |
+| Qtde. máq. lavar roupa               |     24 |      37 |      68 |
+| Qtde. psicólogos                     |     25 |      16 |      30 |
+| Região geográfica                    |     26 |      32 |      57 |
+| Sala artes                           |     27 |      21 |      26 |
+| Possui aspirador                     |     28 |      24 |      83 |
+| Não sabe grau estudo mãe             |     29 |      47 |      84 |
+| Qtde. máq. secar roupa               |     30 |      79 |      78 |
+| Não sabe grau estudo pai             |     31 |      59 |      85 |
+| Qtde. monitores                      |     32 |      29 |      16 |
+| Qtde. banheiros                      |     33 |      30 |      55 |
+| Qtde. quartos                        |     34 |      69 |      41 |
+| Qtde. TVs                            |     35 |      49 |      50 |
+| Exame seleção                        |     36 |      34 |     100 |
+| Matrículas ens. médio                |     37 |      15 |       5 |
+| Qtde. carros                         |     38 |      35 |      47 |
+| Dias empregado(a) doméstico(a)       |     39 |      50 |      60 |
+| Educação profissional                |     40 |      38 |      23 |
+| Auditório                            |     41 |      42 |      24 |
+| Nacionalidade                        |     42 |      68 |      73 |
 | Qtde. desktop alunos                 |     43 |      33 |       4 |
-| Educação profissional                |     44 |      36 |      34 |
-| Nacionalidade                        |     45 |      59 |      72 |
-| Qtde. projetores                     |     46 |      55 |      12 |
-| Qtde. geladeiras                     |     47 |      80 |      62 |
-| Sala música                          |     48 |      44 |      28 |
-| Mantened. sem fins lucr.             |     49 |      25 |      54 |
-| Estado civil                         |     50 |      75 |      74 |
-| Tipo de instituição                  |     51 |      53 |      70 |
-| Possui internet                      |     52 |      64 |      92 |
-| Qtde. pedagogos                      |     53 |      61 |      15 |
-| Sexo                                 |     54 |      78 |      59 |
-| Docentes ens. médio                  |     55 |      37 |       8 |
-| Qtde. tablets alunos                 |     56 |      67 |      17 |
-| Matrículas tempo integral            |     57 |      39 |       7 |
-| Lab. ciências                        |     58 |      54 |      31 |
-| Lab. informática                     |     59 |      47 |      43 |
-| Mantened. sindicato                  |     60 |      49 |      67 |
-| Possui telefone fixo                 |     61 |      92 |      90 |
-| Qtde. máq. lavar louça               |     62 |      69 |      75 |
-| Qtde. lousas digitais                |     63 |      41 |      25 |
-| Área verde                           |     64 |      66 |      33 |
-| Parceria poder público               |     65 |      16 |      58 |
-| Possui DVD                           |     66 |      73 |      86 |
-| Qtde. notebooks alunos               |     67 |      63 |      10 |
-| Matrículas normal/magistério         |     68 |      76 |      45 |
-| Ocupação prédio escolar              |     69 |      74 |      98 |
-| Vínculo Seg. Pública                 |     70 |      84 |      61 |
-| Qtde. salas aula                     |     71 |      48 |       9 |
-| Funciona outra escola                |     72 |      77 |      49 |
-| Piscina                              |     73 |      32 |      51 |
-| Aulas EAD                            |     74 |      56 |      48 |
-| Turmas tempo integral                |     75 |      65 |      23 |
-| Biblioteca                           |     76 |      81 |      44 |
-| Qtde. televisores                    |     77 |      62 |      14 |
-| Quadra esportes                      |     78 |      58 |      22 |
-| Aulas semipresenciais                |     79 |      86 |      63 |
-| Vínculo outro órgão                  |     80 |      79 |      96 |
-| Mantened. sistema S                  |     81 |      50 |      53 |
-| Internet alunos                      |     82 |      68 |      39 |
-| Mantened. ONG                        |     83 |      60 |      85 |
-| Internet ensino                      |     84 |      71 |      46 |
-| Proposta pedagógica atualizada       |     85 |      94 |      94 |
-| Sem material pedagógico              |     86 |      85 |      66 |
-| Aulas presenciais                    |     87 |      87 |      69 |
-| Água potável                         |     88 |      91 |      72 |
-| Funciona prédio escolar              |     89 |      90 |      77 |
-| Localização                          |     90 |      96 |     102 |
-| Funciona prisional                   |     91 |      88 |      79 |
-| Mantened. ONG/OSCIP                  |     92 |      93 |      91 |
-| Funciona outros                      |     93 |      82 |      65 |
-| Funciona socioeducativo              |     94 |      83 |      82 |
-| Funciona galpão                      |     95 |     100 |      87 |
-| Funciona prisional/socio             |     96 |      89 |      77 |
-| Sem tratamento lixo                  |     97 |      97 |     100 |
-| Sit. funcionamento escola            |     98 |     101 |      93 |
-| Banheiro                             |     99 |      98 |      80 |
-| Mantened. OSCIP                      |    100 |      99 |      99 |
-| Sem esgoto                           |    101 |      95 |      83 |
-| Localização diferenciada             |    102 |     104 |     104 |
-| Sem energia                          |    103 |     103 |      97 |
-| Sem água                             |    104 |     102 |     101 |
-| Vínculo Sec. Saúde                   |    105 |     105 |     106 |
-| Ocupação galpão                      |    106 |     106 |     105 |
+| Sala música                          |     44 |      40 |      21 |
+| Qtde. bibliotecários                 |     45 |      27 |       9 |
+| Possui internet                      |     46 |      66 |      95 |
+| Tipo de instituição                  |     47 |      57 |      72 |
+| Turmas ens. médio                    |     48 |      23 |      11 |
+| Qtde. geladeiras                     |     49 |      84 |      65 |
+| Estado civil                         |     50 |      80 |      74 |
+| Mantened. sistema S                  |     51 |      28 |      52 |
+| Matrículas tempo integral            |     52 |      36 |       6 |
+| Qtde. projetores                     |     53 |      53 |      12 |
+| Sexo                                 |     54 |      82 |      69 |
+| Qtde. tablets alunos                 |     55 |      65 |      19 |
+| Mantened. sem fins lucr.             |     56 |      25 |      49 |
+| Lab. ciências                        |     57 |      55 |      22 |
+| Parceria poder público               |     58 |      22 |      58 |
+| Área verde                           |     59 |      64 |      25 |
+| Qtde. pedagogos                      |     60 |      54 |      14 |
+| Possui telefone fixo                 |     61 |      94 |      89 |
+| Docentes ens. médio                  |     62 |      26 |       7 |
+| Qtde. lousas digitais                |     63 |      44 |      20 |
+| Qtde. máq. lavar louça               |     64 |      73 |      77 |
+| Possui DVD                           |     65 |      76 |      82 |
+| Qtde. salas aula                     |     66 |      41 |       8 |
+| Mantened. sindicato                  |     67 |      46 |      62 |
+| Lab. informática                     |     68 |      48 |      29 |
+| Quadra esportes                      |     69 |      51 |      17 |
+| Qtde. notebooks alunos               |     70 |      56 |      10 |
+| Funciona outra escola                |     71 |      71 |      40 |
+| Qtde. televisores                    |     72 |      62 |      15 |
+| Turmas tempo integral                |     73 |      58 |      18 |
+| Ocupação prédio escolar              |     74 |      78 |      99 |
+| Biblioteca                           |     75 |      72 |      34 |
+| Proposta pedagógica atualizada       |     76 |      93 |      92 |
+| Piscina                              |     77 |      39 |      39 |
+| Vínculo Seg. Pública                 |     78 |      81 |      53 |
+| Mantened. ONG                        |     79 |      60 |      80 |
+| Internet alunos                      |     80 |      61 |      27 |
+| Aulas semipresenciais                |     81 |      91 |      67 |
+| Aulas EAD                            |     82 |      67 |      44 |
+| Sem tratamento lixo                  |     83 |      90 |      97 |
+| Matrículas normal/magistério         |     84 |      77 |      61 |
+| Internet ensino                      |     85 |      70 |      36 |
+| Vínculo outro órgão                  |     86 |      89 |      91 |
+| Localização                          |     87 |      98 |     102 |
+| Funciona prédio escolar              |     88 |      86 |      70 |
+| Funciona prisional/socio             |     89 |      75 |      66 |
+| Sem material pedagógico              |     90 |      83 |      56 |
+| Funciona outros                      |     91 |      74 |      48 |
+| Água potável                         |     92 |      88 |      59 |
+| Funciona prisional                   |     93 |      85 |      71 |
+| Aulas presenciais                    |     94 |      87 |      54 |
+| Mantened. ONG/OSCIP                  |     95 |      96 |      87 |
+| Sit. funcionamento escola            |     96 |     101 |      93 |
+| Funciona socioeducativo              |     97 |      91 |      75 |
+| Sem esgoto                           |     98 |      95 |      76 |
+| Funciona galpão                      |     99 |     100 |      86 |
+| Banheiro                             |    100 |      97 |      81 |
+| Mantened. OSCIP                      |    101 |      99 |      94 |
+| Localização diferenciada             |    102 |     103 |     104 |
+| Sem água                             |    103 |     102 |      96 |
+| Sem energia                          |    104 |     104 |     103 |
+| Vínculo Sec. Saúde                   |    105 |     105 |     105 |
+| Ocupação galpão                      |    106 |     106 |     106 |
