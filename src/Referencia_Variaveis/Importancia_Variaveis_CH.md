@@ -1,6 +1,6 @@
 # Tabela de importância das variáveis nos modelos utilizados
 
-- 📥 [Baixar arquivo Excel (.xlsx)](./Importancia_Variaveis.xlsx) *(clique em "View raw" na página para baixar)*
+- 📥 [Baixar arquivo Excel (.xlsx)](./Importancia_Variaveis_CH.xlsx) *(clique em "View raw" na página para baixar)*
 
 Esta tabela apresenta a importância relativa das variáveis utilizadas em dois modelos preditivos aplicados no TCC para prever a nota de Ciências Humanas do ENEM. 
 O método **SHAP** foi utilizado para interpretar o modelo **LightGBM**, que obteve os melhores resultados nas métricas de avaliação. 
@@ -9,6 +9,7 @@ e bom desempenho, permitindo o cálculo do impacto das variáveis mesmo com meno
 
 Colunas:
 - Variável: descrição da variável utilizada nos modelos.
+- Tipo de Variável: socioeconômica ou escolar.
 - SHAP: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante).
 - Ganho: posição da variável segundo o ganho médio de informação no Random Forest.
 - Split: número total de divisões em que a variável foi utilizada nas árvores do Random Forest.
