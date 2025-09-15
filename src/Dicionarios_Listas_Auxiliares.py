@@ -44,7 +44,7 @@ nomes_descritivos_enem = {
     # Questionário Socioeconômico - Composição Familiar e Renda
     'NUM_Q005': 'Pessoas na residência',
     'NUM_Q006': 'Renda familiar mensal',
-    'NUM_Q007': 'Dias empregado(a) doméstico(a)',
+    'NUM_Q007': 'Qtde. de Dias empregado(a)',
     
     # Questionário Socioeconômico - Bens Domésticos
     'NUM_Q008': 'Qtde. banheiros',
