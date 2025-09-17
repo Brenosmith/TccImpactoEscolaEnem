@@ -8,13 +8,13 @@ O método **SHAP** foi utilizado para interpretar o modelo **LightGBM**, que obt
 Colunas:
 - **Descrição**: descrição da variável utilizada nos modelos.
 - **Tipo de Variável**: socioeconômica ou escolar.
-- **Posição SHAP NUM_NOTA_MT**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Matemática.
-- **Posição SHAP NUM_NOTA_LC**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Linguagens.
-- **Posição SHAP NUM_NOTA_CN**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Ciências da Natureza.
-- **Posição SHAP NUM_NOTA_CH**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Ciências Humanas.
-- **Posição SHAP NUM_NOTA_REDACAO**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Redação.
+- **Posição SHAP Matemática**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Matemática.
+- **Posição SHAP Linguagens**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Linguagens e Códigos.
+- **Posição SHAP Ciências da Natureza**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Ciências da Natureza.
+- **Posição SHAP Ciências Humanas**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Ciências Humanas.
+- **Posição SHAP Redação**: posição de importância da variável segundo os valores SHAP do modelo LightGBM (1 = mais importante) para a nota de Redação.
 
-| Descrição                            | Tipo de Variável |   Posição SHAP NUM_NOTA_MT |   Posição SHAP NUM_NOTA_LC |   Posição SHAP NUM_NOTA_CN |   Posição SHAP NUM_NOTA_CH |   Posição SHAP NUM_NOTA_REDACAO |
+| Descrição                            | Tipo de Variável |   Posição SHAP Matemática |   Posição SHAP Linguagens |   Posição SHAP Ciências da Natureza |   Posição SHAP Ciências Humanas |   Posição SHAP Redação |
 |:-------------------------------------|:-----------------|---------------------------:|---------------------------:|---------------------------:|---------------------------:|--------------------------------:|
 | Sexo                                 | Socioeconômica   |                          1 |                         14 |                          3 |                         43 |                               1 |
 | Língua estrangeira                   | Socioeconômica   |                          2 |                          1 |                          1 |                          1 |                               2 |

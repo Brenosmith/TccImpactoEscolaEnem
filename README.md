@@ -109,11 +109,16 @@ src/
 └── mlruns/                       # 🔬 Experimentos MLflow
 ```
 
-### 📊 Bases de Dados Tratadas (Prontas para Modelagem)
-- [📈 `enem_microdados_2023.pkl`](./src/Bases/Finais/enem_microdados_2023.pkl) - Base ENEM 2023 tratada
-- [🏫 `dados_escolares_2023.pkl`](./src/Bases/Finais/dados_escolares_2023.pkl) - Somente variáveis escolares (Censo + ENEM)
-- [💰 `dados_socioeconomicos_2023.pkl`](./src/Bases/Finais/dados_socioeconomicos_2023.pkl) - Somente variáveis socioeconômicas (ENEM)
-- [🔗 `enem_censo_2023_full.pkl`](./src/Bases/Finais/enem_censo_2023_full.pkl) - Base unificada completa (ENEM + Censo)
+### 📊 Bases de Dados Tratadas
+
+> ⚠️ **Pré-requisito**: Executar os notebooks `1.x` em ordem sequencial para gerar as bases tratadas
+
+| Dataset | Descrição | Conteúdo |
+|---------|-----------|----------|
+| 📈 `enem_microdados_2023.pkl` | **Base ENEM 2023 tratada** | Microdados do ENEM com limpeza e feature engineering |
+| 🏫 `dados_escolares_2023.pkl` | **Variáveis escolares** | Dados do Censo Escolar + variáveis educacionais do ENEM |
+| 💰 `dados_socioeconomicos_2023.pkl` | **Variáveis socioeconômicas** | Perfil socioeconômico e demográfico dos candidatos |
+| 🔗 `enem_censo_2023_full.pkl` | **Base unificada completa** | Integração total: ENEM + Censo Escolar (~700k registros) |
 
 > ✅ **Datasets finais**: Todas as bases passaram por limpeza, feature engineering e estão prontas para aplicação direta nos algoritmos de ML
 
