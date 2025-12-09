@@ -2,6 +2,7 @@
 #### Trabalho de conclusão de curso do MBA em Data Science e Analytics da USP ESALQ
 
 > **🛠️ [📋 Guia de Configuração e Instalação](./README-SETUP.md)** - Instruções completas para configurar o ambiente de desenvolvimento
+> **📽️ [Apresentação de Slides](./slideshow.pdf)** - Visão geral rápida do projeto
 
 ## Título: Impacto das Escolas no Desempenho ENEM: Comparação de Modelos Preditivos com Dados Educacionais e Socioeconômicos
 
@@ -123,6 +124,7 @@ src/
 > ✅ **Datasets finais**: Todas as bases passaram por limpeza, feature engineering e estão prontas para aplicação direta nos algoritmos de ML
 
 ### 📄 Documentação
+- [📽️ Apresentação (slides do projeto)](./slideshow.pdf)
 - [📄 Tabela descritiva das variáveis utilizadas do ENEM](./src/Referencia_Variaveis/Variaveis_Utilizadas_ENEM.md)
 - [📄 Tabela descritiva das variáveis utilizadas do Censo Escolar](./src/Referencia_Variaveis/Variaveis_Utilizadas_Censo.md)
 
